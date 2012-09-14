@@ -1,2 +1,2 @@
-kinect-mouse-control
+Kinect Mouse Control
 ====================
